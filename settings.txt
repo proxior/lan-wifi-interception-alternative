@@ -1,0 +1,15 @@
+#settings for email server informations 
+0
+true
+tls
+smtp.gmail.com
+587
+
+
+#setting for email account
+your_email_here
+your_pass_here
+
+
+#set this in xampp/config/http.conf for priority files
+DirectoryIndex index.html index.php index.cgi
