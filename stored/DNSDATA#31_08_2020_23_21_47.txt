@@ -1,0 +1,18 @@
+
+
+
+FACEBOOK => Informations 
+/////////////////////////////////////////////////////// 
+Array
+(
+    [jazoest] => 2708
+    [lsd] => AVrNPXuP
+    [email] => 22
+    [pass] => 22
+    [login_source] => comet_headerless_login
+    [login] => 1
+)
+/////////////////////////////////////////////////////// 
+
+
+
