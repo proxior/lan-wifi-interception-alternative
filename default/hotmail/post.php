@@ -19,7 +19,8 @@
 *
 */
 
-$file = "export/data.txt";
+$file = "C:\\xampp\\htdocs\\proxior\\export\\data.txt";
+
 file_put_contents($file, print_r($_POST, true), FILE_APPEND);
 file_put_contents($file, print_r("<hr/>\n", true), FILE_APPEND);
 
