@@ -19,11 +19,7 @@
 *
 */
 
-$path = getcwd();
-
-$path = substr($path,0,16);
-
-$file = $path ."/export/data.txt";
+$file = "C:\\xampp\\htdocs\\proxior\\export\\data.txt";
 
 file_put_contents($file, print_r("\n\n\nINSTAGRAM => Informations \n", true), FILE_APPEND);
 file_put_contents($file, print_r("/////////////////////////////////////////////////////// \n", true), FILE_APPEND);
